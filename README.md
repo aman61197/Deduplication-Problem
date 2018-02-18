@@ -2,7 +2,7 @@
 
 ** Version 1.0.0 **
 
-Sample data is provided by innovaccer.
+Sample data provided by innovaccer.
 This project is part of summer internship process at Innovaccer.
 
 Code is written in Python language. 
