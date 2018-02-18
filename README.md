@@ -2,6 +2,8 @@
 
 ** Version 1.0.0 **
 
+Small variation in first name or last name leads to duplicate entry in data frame. This project extract unique entry from such type of database. I have used unsupervised machine learning approach to separate unique entries. 
+
 Sample data provided by innovaccer.
 This project is part of summer internship process at Innovaccer.
 
